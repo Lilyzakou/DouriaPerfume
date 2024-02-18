@@ -1,0 +1,79 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
+  <ItemGroup>
+    <PackageReference Include="Mvc.RazorTools.Base" Version="5.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.0" />
+    <PackageReference Include="bootstrap" Version="5.3.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="7.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Data\" />
+    <None Remove="Data\Models\" />
+    <None Remove="Data\Interfaces\" />
+    <None Remove="Data\mocks\" />
+    <None Remove="Data\Repositories\" />
+    <None Remove="Views\Perfume\" />
+    <None Remove="Views\About\" />
+    <None Remove="Views\Account\" />
+    <None Remove="Views\Error\" />
+    <None Remove="Views\Order\" />
+    <None Remove="Views\ShoppingCart.cshtml\" />
+    <None Remove="Views\Shared\Component\" />
+    <None Remove="Views\Shared\Component\CategoryMenu\" />
+    <None Remove="Views\Shared\Component\ShoppingCartSummary\" />
+    <None Remove="Components\" />
+    <None Remove="ViewModels\" />
+    <None Remove="TagHelpers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Data\" />
+    <Folder Include="Data\Models\" />
+    <Folder Include="Data\Interfaces\" />
+    <Folder Include="Data\mocks\" />
+    <Folder Include="Data\Repositories\" />
+    <Folder Include="Views\Perfume\" />
+    <Folder Include="wwwroot\Images\" />
+    <Folder Include="wwwroot\Content\" />
+    <Folder Include="Data\Repositories\" />
+    <Folder Include="Views\About\" />
+    <Folder Include="Views\Account\" />
+    <Folder Include="Views\Error\" />
+    <Folder Include="Views\Order\" />
+    <Folder Include="Views\ShoppingCart.cshtml\" />
+    <Folder Include="Views\Shared\Component\" />
+    <Folder Include="Views\Shared\Component\CategoryMenu\" />
+    <Folder Include="Views\Shared\Component\ShoppingCartSummary\" />
+    <Folder Include="Components\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="TagHelpers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="wwwroot\Images\" />
+    <Content Remove="wwwroot\Content\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Data\ViewModels\PerfumesListViewModel.cs">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Compile>
+    <Compile Update="ViewModels\PerfumesListViewModel.cs">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Compile>
+  </ItemGroup>
+</Project>

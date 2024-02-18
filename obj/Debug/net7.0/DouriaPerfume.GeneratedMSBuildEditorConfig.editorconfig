@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DouriaPerfume
+build_property.RootNamespace = DouriaPerfume
+build_property.ProjectDir = /Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWJvdXQvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Account/LoggedIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dnZWRJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Account/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Error/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRXJyb3IvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Order/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvQ2hlY2tvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Order/CheckoutComplete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3JkZXIvQ2hlY2tvdXRDb21wbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Perfume/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyZnVtZS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Perfume/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyZnVtZS9MaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Shared/Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Nhcm91c2VsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Shared/Component/CategoryMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudC9DYXRlZ29yeU1lbnUvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Shared/Component/ShoppingCartSummary/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudC9TaG9wcGluZ0NhcnRTdW1tYXJ5L0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Shared/LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0xvZ2luUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Shared/PerfumeOverViewSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BlcmZ1bWVPdmVyVmlld1N1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Shared/PerfumSummary.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL1BlcmZ1bVN1bW1hcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/ShoppingCart.cshtml/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvcHBpbmdDYXJ0LmNzaHRtbC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-yclu1l2fdf

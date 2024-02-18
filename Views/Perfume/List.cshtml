@@ -1,0 +1,8 @@
+﻿@model PerfumeListViewModel
+
+<div class="row marginTop">
+    @foreach (var Perfume in Model.Perfums)
+    {
+        @Html.Partial("PerfumsSummary", Perfume)
+    }
+</div>

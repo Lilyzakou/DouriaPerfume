@@ -1,0 +1,9 @@
+/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/obj/Debug/net7.0/DouriaPerfume.csproj.AssemblyReference.cache
+/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/obj/Debug/net7.0/DouriaPerfume.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/obj/Debug/net7.0/DouriaPerfume.AssemblyInfoInputs.cache
+/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/obj/Debug/net7.0/DouriaPerfume.AssemblyInfo.cs
+/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/obj/Debug/net7.0/DouriaPerfume.csproj.CoreCompileInputs.cache
+/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/obj/Debug/net7.0/DouriaPerfume.MvcApplicationPartsAssemblyInfo.cs
+/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/obj/Debug/net7.0/DouriaPerfume.MvcApplicationPartsAssemblyInfo.cache
+/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/obj/Debug/net7.0/DouriaPerfume.RazorAssemblyInfo.cache
+/Users/halimaissazakou/Projects/DouriaPerfume/DouriaPerfume/obj/Debug/net7.0/DouriaPerfume.RazorAssemblyInfo.cs
